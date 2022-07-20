@@ -1,0 +1,32 @@
+<html>
+    <title>Fashion</title>
+    <body style="background:#4d88ff;font-family:sans-serif;">
+        <header>
+          <img src="/uploads/2020/10/frog-159002_1280_0_1603798105.png" height="40px"/><a href="#FASHION">Fashion</a>   
+        </header>
+
+        <main>
+            <h1 style="text-align:center;color:darkgreen;font-size:50px">Essay on About fashion</h1>
+            <p style="font-size:20px; color:black;background-color:green">There is a proverb: “Good clothes open all doors”. It mean
+            s that when people don’t know you they judge you by appearance and especially clothes. When you see the person wearing a perfect expensive suit your brain creates the image of successful businessmen in front of you. Instead, the person wearing old jeans and simple T-shirt won’t be allowed to enter the restaurant or many other establishments. It’s considered normal, but should it be this way?</p>
+               <h2 style="text-align:center;color:yellow;font-size:50px">Fashion history</h2>
+               <p style="font-size:20px; color:black;background-color:yellow">На протяжении истории моду в одежде диктовали разные страны; на данный момент самым «модным» городом считается Париж (и, следовательно, страной — Франция), но ранее моду задавали Италия, Испания, и, позднее Англия[2]. Зачастую первенство в вопросах моды было связано с политическим первенством (например, Италия диктовала моду в период Ренессанса, расцвета городов-государств вроде Венеции и Флоренции; с XIII века именно здесь изготавливались бархат и шёлк).</p>
+            <h1 id="FASHION" style="text-align:center;color:#ff5c33;font-size:50px">Fashion cloothes</h1>
+            <img src="https://i.pinimg.com/474x/fb/a4/94/fba494592ba2bbb38f4f728751493ba8.jpg"height="240px"/>
+            <img src="https://www.instaloverz.com/wp-content/uploads/2017/06/3-Korean-Style-Outfits-Men.jpg"height="240px"/>
+                    <img src="https://www.hellokpop.com/wp-content/uploads/2020/06/K-pop-fashion-male.jpg"height="240px"/>
+
+           <img src="https://www.ivisitkorea.com/wp-content/uploads/2020/12/mens-korean-fashion.jpg?ezimgfmt=ng%3Awebp%2Fngcb18%2Frs%3Adevice%2Frscb18-1"height="240px"/>
+           <img src="https://www.ivisitkorea.com/wp-content/uploads/2020/12/korean-fashion-for-men-2022.jpeg?ezimgfmt=ng:webp/ngcb18"height="240px"/>
+           <img src="https://cdn-images.kooding.com/productDetailImage/226604-2/8e588812514c7115c01cdf48ed8b857d5d7aac1a.jpg"height="240px"/>
+
+
+           
+        </main>
+
+        <footer style="color:darkblue">
+            Tel:+998950254809
+            
+        </footer>
+    </body>
+</html>
